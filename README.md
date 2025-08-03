@@ -85,19 +85,19 @@ Below are sample screens from the app:
 
 <table>
   <tr>
-    <td><img src="Images/Announcement.png" width="200"/></td>
-    <td><img src="Images/Announcement1.png" width="200"/></td>
-    <td><img src="Images/Dashboard1.png" width="200"/></td>
+   <td><img src="Images/Signup.png" width="200"/></td>
+   <td><img src="Images/Login.png" width="200"/></td>
+   <td><img src="Images/Splash.png" width="200"/></td>
+
   </tr>
   <tr>
+    <td><img src="Images/Dashboard1.png" width="200"/></td>
     <td><img src="Images/Dashboard2.png" width="200"/></td>
     <td><img src="Images/Leaderboard.png" width="200"/></td>
-    <td><img src="Images/Login.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="Images/Signup.png" width="200"/></td>
-    <td><img src="Images/Splash.png" width="200"/></td>
-    <td></td>
+     <td><img src="Images/Announcement.png" width="200"/></td>
+    <td><img src="Images/Announcement1.png" width="200"/></td>
   </tr>
 </table>
 
